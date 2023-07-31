@@ -1,0 +1,3 @@
+# Protecting your credit identity is critical to maintaining your credit health - CreditSmart
+
+[https://www.creditsmart.org.au/have-you-been-impacted-by-the-optus-data-breach-how-to-protect-your-credit-report/?gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke5c2Wzk1YKp2RX9pZdCjprsredFG5liIRpBz809pXDl23lleqGuAQYaAiYYEALw_wcB](https://www.creditsmart.org.au/have-you-been-impacted-by-the-optus-data-breach-how-to-protect-your-credit-report/?gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke5c2Wzk1YKp2RX9pZdCjprsredFG5liIRpBz809pXDl23lleqGuAQYaAiYYEALw_wcB)
