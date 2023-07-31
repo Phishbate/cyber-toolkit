@@ -1,7 +1,3 @@
-# Cyber Security Overview
-
-# Cyber Security Overview
-
 A Cyber Security Library would contain a range of resources related to the protection of computer systems, networks, and sensitive information from unauthorized access, theft, or damage. This library would include materials on:
 
 - **Threats and Risks:** This section would cover information on various types of cyber threats, including malware, phishing attacks, denial-of-service attacks, and data breaches. It would also discuss the risks associated with these threats and the impact they can have on organizations.

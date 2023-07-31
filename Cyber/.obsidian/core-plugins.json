@@ -16,5 +16,8 @@
   "bookmarks",
   "outline",
   "word-count",
-  "file-recovery"
+  "slides",
+  "file-recovery",
+  "publish",
+  "sync"
 ]
