@@ -1,11 +1,15 @@
 site_name: Phishbate | Cyber
 theme:
+  icon:
+    logo: material/fish
   name: material
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+ #   - toc.integrate
     - navigation.top
+    - navigation.path
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - content.tabs.link
