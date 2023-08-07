@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c7ae979a1516788",
+            "id": "0542823e46a4c81a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Threats/Email Attacks.md",
+                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Threats/Email Attacks.md",
+                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Threats/Email Attacks.md",
+                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Threats/Email Attacks.md"
+                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md"
               }
             }
           }
@@ -146,24 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e4abd02a5fdb276",
+  "active": "0542823e46a4c81a",
   "lastOpenFiles": [
-    "site/search/search_index.json",
-    "site/search",
-    "site/Threats/Threats/index.html",
-    "site/Threats/Scam Messages/index.html",
-    "site/Threats/Email Attacks/index.html",
-    "site/Threats/Malicious Software/index.html",
-    "site/Threats/Threats",
-    "site/Threats/Scam Messages",
-    "site/Threats/Malicious Software",
-    "site/Threats/Email Attacks",
-    "site/Threats",
-    "site/assets/images/favicon.png",
-    "docs/Overview/Security-Checklists.md",
-    "README.md",
-    "docs/Threats/Malicious Software.md",
-    "docs/Threats/Email Attacks.md",
-    "docs/Overview/Cyber Security Overview.md"
+    "docs/13. Conclusion & Next Steps/13.1 Recap of Key Takeaways.md",
+    "docs/12. Resources & Tools/12.2 Online Resources for Further Learning and Support.md",
+    "docs/12. Resources & Tools/12.1 Recommended Cybersecurity Tools and Software.md",
+    "docs/11. Legal & Regulatory Considerations/11.2 Cyber Insurance.md",
+    "docs/11. Legal & Regulatory Considerations/11.1 Navigating Cybersecurity Laws and Regulations.md",
+    "docs/10. Backup & Business Continuity/10.2 Ensuring Business Operations in the Event of a Cyber Incident.md",
+    "docs/10. Backup & Business Continuity/10.1 Regular Data Backups and Recovery Plans.md",
+    "docs/9. Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks.md",
+    "docs/8. Incident Response & Recovery/8.2 Steps to Take in Case of a Cybersecurity Incident.md",
+    "docs/8. Incident Response & Recovery/8.1 Developing an Incident Response Plan.md",
+    "docs/7. Secure Software & Application Usage/7.2 Safe Web Browsing and Email Practices.md",
+    "docs/7. Secure Software & Application Usage/7.1 Regular Software Updates and Patch Management.md",
+    "docs/6. Data Protection & Privacy/6.2 Compliance with Data Protection Regulations (e.g., GDPR, CCPA).md",
+    "docs/6. Data Protection & Privacy/6.1 Data Encryption and Secure Data Storage.md",
+    "docs/5. Protecting Endpoints & Devices/5.2 Mobile Device Management (MDM) and Bring Your Own Device (BYOD) Policies.md",
+    "docs/5. Protecting Endpoints & Devices/5.1 Endpoint Security Solutions (Antivirus, Anti-malware).md",
+    "docs/4. Secure Network Infrastructure/4.3 Wireless Network Security.md",
+    "docs/4. Secure Network Infrastructure/4.2 Firewalls and Intrusion Detection Prevention Systems.md",
+    "docs/4. Secure Network Infrastructure/4.1 Setting Up a Secure Network Architecture.md",
+    "docs/3. Employee Training & Awareness/3.3 Password Hygiene and Multi-Factor Authentication.md",
+    "docs/3. Employee Training & Awareness/3.2 Conducting Phishing Awareness Training.md",
+    "docs/3. Employee Training & Awareness/3.1 Educating Employees About Cybersecurity Best Practices.md",
+    "docs/2. Building a Strong Cybersecuirty Foundation/2.2 Identifying and Assessing Assets and Risks.md",
+    "docs/2. Building a Strong Cybersecuirty Foundation/2.1 Creating a Cybersecurity Policy and Strategy.md",
+    "docs/1. Introduction to Cybersecurity/1.2 Common Cyber Threats and Risks.md",
+    "docs/TBS/Phishing Training/Introduction to Phishing/Phishing Awareness and Simulation Training - Phrie.md",
+    "docs/TBS",
+    "docs/13. Conclusion & Next Steps",
+    "docs/11. Legal & Regulatory Considerations",
+    "docs/10. Backup & Business Continuity",
+    "docs/9. Vendor & Third Party Risk Management",
+    "docs/8. Incident Response & Recovery",
+    "docs/7. Secure Software & Application Usage",
+    "docs/5. Protecting Endpoints & Devices",
+    "docs/4. Secure Network Infrastructure",
+    "docs/3. Employee Training & Awareness",
+    "docs/TBS/site/assets/images/favicon.png"
   ]
 }

@@ -2,7 +2,7 @@
 
 For small to medium business
 
-[Cyber Security Overview](Cyber%20Security%20Overview.md)
+[1.1 Understanding the Importance of Cybersecurity for Small Business](1.1%20Understanding%20the%20Importance%20of%20Cybersecurity%20for%20Small%20Business.md)
 
 [Information Security](Information%20Security.md)
 
