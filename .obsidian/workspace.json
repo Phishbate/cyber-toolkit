@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
+                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 492.5
   },
   "right": {
     "id": "0fb7721360ceabea",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
+                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md",
+                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/13. Conclusion & Next Steps/13.2 Developing a Continuous Improvement Approach to Cybersecurity.md"
+                "file": "docs/Guide/Business-Continuity/Data-Backups.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,42 +148,44 @@
   },
   "active": "0542823e46a4c81a",
   "lastOpenFiles": [
-    "docs/13. Conclusion & Next Steps/13.1 Recap of Key Takeaways.md",
-    "docs/12. Resources & Tools/12.2 Online Resources for Further Learning and Support.md",
-    "docs/12. Resources & Tools/12.1 Recommended Cybersecurity Tools and Software.md",
-    "docs/11. Legal & Regulatory Considerations/11.2 Cyber Insurance.md",
-    "docs/11. Legal & Regulatory Considerations/11.1 Navigating Cybersecurity Laws and Regulations.md",
-    "docs/10. Backup & Business Continuity/10.2 Ensuring Business Operations in the Event of a Cyber Incident.md",
-    "docs/10. Backup & Business Continuity/10.1 Regular Data Backups and Recovery Plans.md",
-    "docs/9. Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks.md",
-    "docs/8. Incident Response & Recovery/8.2 Steps to Take in Case of a Cybersecurity Incident.md",
-    "docs/8. Incident Response & Recovery/8.1 Developing an Incident Response Plan.md",
-    "docs/7. Secure Software & Application Usage/7.2 Safe Web Browsing and Email Practices.md",
-    "docs/7. Secure Software & Application Usage/7.1 Regular Software Updates and Patch Management.md",
-    "docs/6. Data Protection & Privacy/6.2 Compliance with Data Protection Regulations (e.g., GDPR, CCPA).md",
-    "docs/6. Data Protection & Privacy/6.1 Data Encryption and Secure Data Storage.md",
-    "docs/5. Protecting Endpoints & Devices/5.2 Mobile Device Management (MDM) and Bring Your Own Device (BYOD) Policies.md",
-    "docs/5. Protecting Endpoints & Devices/5.1 Endpoint Security Solutions (Antivirus, Anti-malware).md",
-    "docs/4. Secure Network Infrastructure/4.3 Wireless Network Security.md",
-    "docs/4. Secure Network Infrastructure/4.2 Firewalls and Intrusion Detection Prevention Systems.md",
-    "docs/4. Secure Network Infrastructure/4.1 Setting Up a Secure Network Architecture.md",
-    "docs/3. Employee Training & Awareness/3.3 Password Hygiene and Multi-Factor Authentication.md",
-    "docs/3. Employee Training & Awareness/3.2 Conducting Phishing Awareness Training.md",
-    "docs/3. Employee Training & Awareness/3.1 Educating Employees About Cybersecurity Best Practices.md",
-    "docs/2. Building a Strong Cybersecuirty Foundation/2.2 Identifying and Assessing Assets and Risks.md",
-    "docs/2. Building a Strong Cybersecuirty Foundation/2.1 Creating a Cybersecurity Policy and Strategy.md",
-    "docs/1. Introduction to Cybersecurity/1.2 Common Cyber Threats and Risks.md",
-    "docs/TBS/Phishing Training/Introduction to Phishing/Phishing Awareness and Simulation Training - Phrie.md",
-    "docs/TBS",
-    "docs/13. Conclusion & Next Steps",
-    "docs/11. Legal & Regulatory Considerations",
-    "docs/10. Backup & Business Continuity",
-    "docs/9. Vendor & Third Party Risk Management",
-    "docs/8. Incident Response & Recovery",
-    "docs/7. Secure Software & Application Usage",
-    "docs/5. Protecting Endpoints & Devices",
-    "docs/4. Secure Network Infrastructure",
-    "docs/3. Employee Training & Awareness",
+    "docs/Guide/Business-Continuity/Ensuring Business Operations in the Event of a Cyber Incident.md",
+    "docs/Guide/Business-Continuity/Recovery-Plans.md",
+    "docs/Guide/Business-Continuity/Data-Backups.md",
+    "docs/Guide/Incident-Management/Incident-Response-Plan.md",
+    "docs/Guide/Basics/Common Cyber Threats and Risks.md",
+    "docs/Guide/Incident-Management/Steps to Take in Case of a Cybersecurity Incident.md",
+    "docs/Guide/Training/Awareness.md",
+    "docs/Guide/Training/Phishing.md",
+    "docs/Guide/Training/Password-Hygiene.md",
+    "docs/Guide/Employee Training & Awareness/password-hygiene.md",
+    "docs/Guide/Training/MFA.md",
+    "docs/index.md",
+    "docs/Guide/Employee Training & Awareness/MFA",
+    "docs/Guide/Basics",
+    "docs/Introduction.md",
+    "docs/Understanding the Importance of Cybersecurity for Small Business.md",
+    "docs/Guide/Vendor & Third Party Risk Management/Evaluating and Managing Third-Party Security Risks.md",
+    "docs/Resources & Tools/Online Resources for Further Learning and Support.md",
+    "docs/Resources & Tools/Recommended Cybersecurity Tools and Software.md",
+    "docs/Guide/Secure Software & Application Usage/Safe Web Browsing and Email Practices.md",
+    "docs/Guide/Secure Software & Application Usage/Regular Software Updates and Patch Management.md",
+    "docs/Guide/Secure Network Infrastructure/Wireless Network Security.md",
+    "docs/Guide/Secure Network Infrastructure/Firewalls and Intrusion Detection Prevention Systems.md",
+    "docs/Guide/Secure Network Infrastructure/Setting Up a Secure Network Architecture.md",
+    "docs/Guide/Protecting Endpoints & Devices/Mobile Device Management (MDM) and Bring Your Own Device (BYOD) Policies.md",
+    "docs/Guide/Protecting Endpoints & Devices/Endpoint Security Solutions (Antivirus, Anti-malware).md",
+    "docs/Guide/Legal & Regulatory Considerations/Cyber Insurance.md",
+    "docs/Guide/Legal & Regulatory Considerations/Navigating Cybersecurity Laws and Regulations.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks/index.html",
+    "site/Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks",
+    "site/Vendor & Third Party Risk Management",
+    "site/TBS/Threats/Threats/index.html",
+    "site/TBS/Threats/Scam Messages/index.html",
+    "site/TBS/Threats/Malicious Software/index.html",
+    "site/assets/images/favicon.png",
+    "site/TBS/site/assets/images/favicon.png",
     "docs/TBS/site/assets/images/favicon.png"
   ]
 }

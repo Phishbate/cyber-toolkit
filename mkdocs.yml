@@ -4,17 +4,19 @@ theme:
     logo: material/code-less-than
   name: material
   features:
+    - header.autohide
 #    - navigation.tabs
     - navigation.sections
 #   - toc.integrate
     - navigation.top
-    - navigation.path
-    - navigation.tabs.sticky
+#    - navigation.path
+#    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - footer
   language: en
   palette:
     - scheme: default
