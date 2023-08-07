@@ -1,12 +1,12 @@
-site_name: Phishbate | Cyber Toolkit
+site_name: Cyber Toolkit
 theme:
   icon:
-    logo: material/fish
+    logo: material/code-less-than
   name: material
   features:
-    - navigation.tabs
+#    - navigation.tabs
     - navigation.sections
- #   - toc.integrate
+#   - toc.integrate
     - navigation.top
     - navigation.path
     - navigation.tabs.sticky
@@ -21,13 +21,13 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
-      primary: blue
+      primary: black
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode    
-      primary: blue
+      primary: black
       accent: lime
 
 markdown_extensions:
