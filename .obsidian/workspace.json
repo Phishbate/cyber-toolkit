@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Threats/Email Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Threats/Email Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Threats/Email Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Threats/Email Attacks.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c7ae979a1516788",
+  "active": "1e4abd02a5fdb276",
   "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/Threats/Threats/index.html",
+    "site/Threats/Scam Messages/index.html",
+    "site/Threats/Email Attacks/index.html",
+    "site/Threats/Malicious Software/index.html",
+    "site/Threats/Threats",
+    "site/Threats/Scam Messages",
+    "site/Threats/Malicious Software",
+    "site/Threats/Email Attacks",
+    "site/Threats",
+    "site/assets/images/favicon.png",
+    "docs/Overview/Security-Checklists.md",
+    "README.md",
     "docs/Threats/Malicious Software.md",
     "docs/Threats/Email Attacks.md",
     "docs/Overview/Cyber Security Overview.md"
