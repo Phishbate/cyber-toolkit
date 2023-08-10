@@ -1,3 +1,3 @@
 # cyber-toolkit
 
-a guide for small businesses
+A guide for small businesses to uplift their people, process and technology.
