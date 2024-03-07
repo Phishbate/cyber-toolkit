@@ -34,6 +34,10 @@ theme:
       primary: black
       accent: lime
 
+plugins:
+  - tags
+#  - blog
+
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:

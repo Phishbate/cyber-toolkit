@@ -1,6 +1,9 @@
-# Limit the use of administrator accounts
+---
+tags:
+- Action-Now 
+---
 
-#Action-Now 
+# Limit the use of administrator accounts
 
 **What you need to do**
 - Make sure to lock down administrator accounts to only those staff who need to use them 
