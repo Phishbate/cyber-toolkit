@@ -2,7 +2,7 @@ site_name: Cyber Toolkit
 theme:
   icon:
     #logo: site/assets/logo.png
-    # logo: .icons/fontawesome-solid-fish-fins
+    logo: material/subtitles
 
   name: material
   features:
@@ -10,27 +10,29 @@ theme:
     - navigation.tabs
 #    - navigation.sections
 #   - toc.integrate
-#    - navigation.top
-#    - navigation.path
-#    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes
+    - navigation.path
+    - navigation.tabs.sticky
     - search.suggest
     - header.autohide
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-#    - footer
+    - navigation.footer
+    - footer
   language: en
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to light mode
-      primary: white
+      primary: blue
       accent: light-blue 
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-4
         name: Switch to dark mode    
       primary: black
       accent: light-blue
@@ -47,6 +49,16 @@ markdown_extensions:
       custom_checkbox: true
 
 extra:
+  version:
+    provider: Matt
+
+  generator: false
+
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<phishbate@pm.me>
+  copyright: Copyright &copy; 2016 - 2020 Martin Donath
+
   consent:
     title: Cookie consent
     description: >- 
