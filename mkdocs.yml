@@ -1,7 +1,7 @@
 site_name: Cyber Toolkit
 theme:
   icon:
-    logo: site/assets/logo.png
+    #logo: site/assets/logo.png
   name: material
   features:
     - header.autohide
