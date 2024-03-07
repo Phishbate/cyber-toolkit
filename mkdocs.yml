@@ -14,11 +14,12 @@ theme:
 #    - navigation.path
 #    - navigation.tabs.sticky
     - search.suggest
+    - header.autohide
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - footer
+#    - footer
   language: en
   palette:
     - scheme: default
@@ -26,16 +27,18 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: white
-      accent: purple 
+      accent: light-blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode    
       primary: black
-      accent: lime
+      accent: light-blue
 
 plugins:
   - tags
+#    tags_file:  tags.md
+  - search
 #  - blog
 
 markdown_extensions:
