@@ -1,11 +1,11 @@
 site_name: Cyber Toolkit
 theme:
   icon:
-    logo: material/code-less-than
+    logo: site/assets/logo.png
   name: material
   features:
     - header.autohide
-#    - navigation.tabs
+    - navigation.tabs
     - navigation.sections
 #   - toc.integrate
     - navigation.top
@@ -23,7 +23,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
-      primary: black
+      primary: white
       accent: purple 
     - scheme: slate 
       toggle:

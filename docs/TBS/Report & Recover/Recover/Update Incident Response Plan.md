@@ -1,1 +1,0 @@
-This plan will be continually updated to reflect better practice in cyber incident response activities, including following any relevant post incident reviews.

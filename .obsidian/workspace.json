@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Guide/Business-Continuity/Data-Backups.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Guide/Business-Continuity/Data-Backups.md"
+                "file": "docs/index.md"
+              }
+            }
+          },
+          {
+            "id": "d88b80ebab395bf7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -146,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0542823e46a4c81a",
+  "active": "1e4abd02a5fdb276",
   "lastOpenFiles": [
+    "docs/0. Start Here/Start Here.md",
+    "docs/index.md",
     "docs/Guide/Business-Continuity/Ensuring Business Operations in the Event of a Cyber Incident.md",
     "docs/Guide/Business-Continuity/Recovery-Plans.md",
     "docs/Guide/Business-Continuity/Data-Backups.md",
@@ -159,7 +173,6 @@
     "docs/Guide/Training/Password-Hygiene.md",
     "docs/Guide/Employee Training & Awareness/password-hygiene.md",
     "docs/Guide/Training/MFA.md",
-    "docs/index.md",
     "docs/Guide/Employee Training & Awareness/MFA",
     "docs/Guide/Basics",
     "docs/Introduction.md",
@@ -175,7 +188,6 @@
     "docs/Guide/Protecting Endpoints & Devices/Mobile Device Management (MDM) and Bring Your Own Device (BYOD) Policies.md",
     "docs/Guide/Protecting Endpoints & Devices/Endpoint Security Solutions (Antivirus, Anti-malware).md",
     "docs/Guide/Legal & Regulatory Considerations/Cyber Insurance.md",
-    "docs/Guide/Legal & Regulatory Considerations/Navigating Cybersecurity Laws and Regulations.md",
     "site/search/search_index.json",
     "site/search",
     "site/Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks/index.html",
