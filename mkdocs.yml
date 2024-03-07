@@ -2,11 +2,13 @@ site_name: Cyber Toolkit
 theme:
   icon:
     #logo: site/assets/logo.png
+    # logo: .icons/fontawesome-solid-fish-fins
+
   name: material
   features:
     - header.autohide
     - navigation.tabs
-    - navigation.sections
+#    - navigation.sections
 #   - toc.integrate
     - navigation.top
 #    - navigation.path
@@ -21,13 +23,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to light mode
       primary: white
       accent: purple 
     - scheme: slate 
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode    
       primary: black
       accent: lime

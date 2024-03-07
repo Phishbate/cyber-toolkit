@@ -1,3 +1,0 @@
-# Page title...
-
-[https://medium.com/@immure/setting-up-gophish-on-aws-c2f2fd78b7e9](https://medium.com/@immure/setting-up-gophish-on-aws-c2f2fd78b7e9)

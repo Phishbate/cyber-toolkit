@@ -1,3 +1,0 @@
-# Randomisation
-
-Status: Not started

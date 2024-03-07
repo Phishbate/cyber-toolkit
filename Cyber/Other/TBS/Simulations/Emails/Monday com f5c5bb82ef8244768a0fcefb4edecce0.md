@@ -1,3 +1,0 @@
-# Monday.com
-
-Created: May 1, 2023 1:43 PM
