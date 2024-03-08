@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/guides/disaster-recovery/back-ups.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Action-Later",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/guides/disaster-recovery/back-ups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/guides/disaster-recovery/back-ups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/guides/disaster-recovery/back-ups.md"
               }
             }
           },
@@ -158,36 +158,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e4abd02a5fdb276",
+  "active": "0542823e46a4c81a",
   "lastOpenFiles": [
-    "docs/0. Start Here/Start Here.md",
-    "docs/index.md",
-    "docs/Guide/Business-Continuity/Ensuring Business Operations in the Event of a Cyber Incident.md",
-    "docs/Guide/Business-Continuity/Recovery-Plans.md",
-    "docs/Guide/Business-Continuity/Data-Backups.md",
-    "docs/Guide/Incident-Management/Incident-Response-Plan.md",
-    "docs/Guide/Basics/Common Cyber Threats and Risks.md",
-    "docs/Guide/Incident-Management/Steps to Take in Case of a Cybersecurity Incident.md",
-    "docs/Guide/Training/Awareness.md",
-    "docs/Guide/Training/Phishing.md",
-    "docs/Guide/Training/Password-Hygiene.md",
-    "docs/Guide/Employee Training & Awareness/password-hygiene.md",
-    "docs/Guide/Training/MFA.md",
+    "docs/guides/email-security/2fa-webmail-access.md",
+    "docs/guides/endpoint-protection/endpoint-protection-guide.md",
+    "docs/guides/incident-response/post-incident-reviews.md",
+    "docs/guides/incident-response/response-testing.md",
+    "docs/guides/incident-response/incident-response-template.md",
+    "docs/guides/incident-response/incident-response-policy.md",
+    "docs/guides/incident-response/incident-planning.md",
+    "docs/guides/email-security/spam-protection.md",
+    "docs/guides/email-security/configure-domain.md",
+    "docs/guides/email-security/acceptable-email-policy.md",
+    "docs/guides/disaster-recovery/test-backups.md",
+    "docs/guides/disaster-recovery/disaster-recovery-audit.md",
+    "docs/guides/disaster-recovery/disaster-recovery.md",
+    "docs/guides/disaster-recovery/back-ups.md",
+    "docs/analysis/statistics.md",
+    "docs/guides/device-security/device-encryption.md",
+    "docs/guides/device-security/device-end-of-life.md",
+    "docs/guides/device-security/device-security.md",
+    "docs/guides/data-management/secure-data-sharing.md",
+    "docs/guides/data-management/sensitive-data-management.md",
+    "docs/guides/basics/common-terms.md",
+    "docs/guides/basics/common-myths.md",
+    "docs/guides/basics/basic-template.md",
+    "docs/guides/browser-security/web-filtering.md",
+    "docs/guides/vendor-management/due-dilligence.md",
+    "docs/guides/browser-security/usage-policy.md",
     "docs/Guide/Employee Training & Awareness/MFA",
     "docs/Guide/Basics",
-    "docs/Introduction.md",
-    "docs/Understanding the Importance of Cybersecurity for Small Business.md",
-    "docs/Guide/Vendor & Third Party Risk Management/Evaluating and Managing Third-Party Security Risks.md",
-    "docs/Resources & Tools/Online Resources for Further Learning and Support.md",
-    "docs/Resources & Tools/Recommended Cybersecurity Tools and Software.md",
-    "docs/Guide/Secure Software & Application Usage/Safe Web Browsing and Email Practices.md",
-    "docs/Guide/Secure Software & Application Usage/Regular Software Updates and Patch Management.md",
-    "docs/Guide/Secure Network Infrastructure/Wireless Network Security.md",
-    "docs/Guide/Secure Network Infrastructure/Firewalls and Intrusion Detection Prevention Systems.md",
-    "docs/Guide/Secure Network Infrastructure/Setting Up a Secure Network Architecture.md",
-    "docs/Guide/Protecting Endpoints & Devices/Mobile Device Management (MDM) and Bring Your Own Device (BYOD) Policies.md",
-    "docs/Guide/Protecting Endpoints & Devices/Endpoint Security Solutions (Antivirus, Anti-malware).md",
-    "docs/Guide/Legal & Regulatory Considerations/Cyber Insurance.md",
     "site/search/search_index.json",
     "site/search",
     "site/Vendor & Third Party Risk Management/9.1 Evaluating and Managing Third-Party Security Risks/index.html",
