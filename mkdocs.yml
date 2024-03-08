@@ -1,16 +1,19 @@
 site_name: Cyber Toolkit
+site_url: https://toolkit.phishbate.com
 theme:
   icon:
     #logo: site/assets/logo.png
     logo: material/subtitles
 
   name: material
+
   features:
     - header.autohide
     - navigation.tabs
-#    - navigation.sections
-#   - toc.integrate
+  #  - navigation.sections
+  #  - toc.integrate
     - navigation.top
+    - toc.follow
     - navigation.indexes
     - navigation.path
     - navigation.tabs.sticky
@@ -22,6 +25,9 @@ theme:
     - content.code.copy
     - navigation.footer
     - footer
+    - navigation.indexes
+
+
   language: en
   palette:
     - scheme: default
@@ -37,11 +43,35 @@ theme:
       primary: black
       accent: light-blue
 
+#nav:
+#  - ...
+#  - Home:
+#    - index.md
+#  - Blog:
+#    - blog/index.md
+#  - Guides:
+#    - guides/index.md
+
 plugins:
   - tags
 #    tags_file:  tags.md
   - search
-#  - blog
+#  - blog:
+#      blog_dir: blog
+
+  - rss:
+      match_path: blog/posts/.* 
+
+
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+
+#  - search: {}
+#  - encryptcontent: {}
+#      global_password: 'your_password'
 
 markdown_extensions:
   - def_list
@@ -54,10 +84,10 @@ extra:
 
   generator: false
 
-  social:
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:<phishbate@pm.me>
-  copyright: Copyright &copy; 2016 - 2020 Martin Donath
+#  social:
+#    - icon: fontawesome/solid/paper-plane
+#      link: mailto:<phishbate@pm.me>
+#  copyright: Copyright &copy; 2016 - 2020 Martin Donath
 
   consent:
     title: Cookie consent
