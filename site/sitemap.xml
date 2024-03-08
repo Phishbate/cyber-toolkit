@@ -6,57 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://toolkit.phishbate.com/Posters/Awareness%20Posters/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Business%20Owner%20Series/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Executive%20Series/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/General%20Security%20Awareness/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Identity%20Theft/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Keep%20Secure%20Series/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Phishing%20Awareness%20Training/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Remote%20Working%20Series/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://toolkit.phishbate.com/Training/Role%20Based%20Training/</loc>
-         <lastmod>2024-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://toolkit.phishbate.com/analysis/benchmark-data/</loc>
          <lastmod>2024-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://toolkit.phishbate.com/analysis/statistics/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/assessments/assessment-sample/</loc>
          <lastmod>2024-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -377,6 +337,51 @@
     </url>
     <url>
          <loc>https://toolkit.phishbate.com/policy-templates/incident-management/incident-response-plan/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/posters/awareness-posters/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/business-owner-series/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/executive-series/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/general-security-awareness/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/identity-theft/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/keep-secure-series/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/phishing-awareness-training/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/remote-working-series/</loc>
+         <lastmod>2024-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://toolkit.phishbate.com/training/role-based-training/</loc>
          <lastmod>2024-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
